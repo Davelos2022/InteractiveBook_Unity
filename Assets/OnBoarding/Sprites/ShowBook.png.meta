@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: aaafe5f01c5de7b479565cbbf09be420
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShowBook_42
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1901
+        width: 679
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca60b572f54bbd847964a3de137cb3ce
+      internalID: 1886123617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShowBook_43
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1963
+        width: 682
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826622541b5661f44b3dc1c51c356272
+      internalID: -1496748452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShowBook_44
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1967
+        width: 679
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c029a94c41c9654b8b85ba86d57a498
+      internalID: 1128765442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShowBook_45
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1203
+        width: 679
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509c20e78650d8348bd5bc7e37f94cc2
+      internalID: 1331680570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShowBook_46
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1207
+        width: 680
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba070e670394ff45849abf4f8ca2a12
+      internalID: -876274876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShowBook_47
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1063
+        width: 716
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb357c74efabf5441af1e5c16456bdc9
+      internalID: -1612260882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShowBook_48
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 332
+        width: 717
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447c223124197a2478ff452f18cde4d8
+      internalID: -1245615132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShowBook_49
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 332
+        width: 716
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88244b58619460245b42c0e1e7a0acdb
+      internalID: 917454025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShowBook_50
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 313
+        width: 681
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9bc161bb30b7143849d3530e86dd26
+      internalID: -717570138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ShowBook_25: 1772656571
+      ShowBook_28: -602732057
+      ShowBook_45: 1331680570
+      ShowBook_5: 2115848575
+      ShowBook_42: 1886123617
+      ShowBook_41: 462040198
+      ShowBook_19: 1471248465
+      ShowBook_24: -1456004275
+      ShowBook_8: -2125336287
+      ShowBook_29: -1584567703
+      ShowBook_13: 1705119849
+      ShowBook_21: -995234604
+      ShowBook_38: 1591225000
+      ShowBook_6: -2033534216
+      ShowBook_23: 863637323
+      ShowBook_9: 810944110
+      ShowBook_39: -890418235
+      ShowBook_50: -717570138
+      ShowBook_44: 1128765442
+      ShowBook_1: -1117857643
+      ShowBook_12: 1798321775
+      ShowBook_37: -727749716
+      ShowBook_33: 153104507
+      ShowBook_2: 952330249
+      ShowBook_43: -1496748452
+      ShowBook_48: -1245615132
+      ShowBook_11: -1793216900
+      ShowBook_17: -1304127872
+      ShowBook_20: 972107675
+      ShowBook_0: 780370437
+      ShowBook_40: -1725196323
+      ShowBook_49: 917454025
+      ShowBook_16: -480883234
+      ShowBook_15: -1341300623
+      ShowBook_22: 854885919
+      ShowBook_10: 2018102885
+      ShowBook_26: -58208676
+      ShowBook_3: 19459162
+      ShowBook_4: -1904456569
+      ShowBook_46: -876274876
+      ShowBook_36: 414432421
+      ShowBook_47: -1612260882
+      ShowBook_18: 422546822
+      ShowBook_14: 1650123049
+      ShowBook_32: -1026450148
+      ShowBook_30: 1507548468
+      ShowBook_31: 2073563075
+      ShowBook_7: 2022604586
+      ShowBook_27: -609032095
+      ShowBook_34: -1351592380
+      ShowBook_35: -1280538901
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

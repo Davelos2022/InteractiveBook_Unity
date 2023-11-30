@@ -1,0 +1,1279 @@
+fileFormatVersion: 2
+guid: f0a3ce767f8e49d4a945922331ef7970
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_0
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2751
+        width: 257
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ad4bd931cec424a85f819f83ffc61f
+      internalID: -37000191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2755
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bceb7a22073a6b94c99263b2a0b83893
+      internalID: -883329431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2755
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c04d2bc8ca2e94b9c0b134b341de3e
+      internalID: 1705948344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2755
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6325b61307ebe44cb7e92b29455734d
+      internalID: 42866122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2755
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd0433f6b15c6d4bb65f389ecc07839
+      internalID: -1223528839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2755
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ee80cd76303ec4faecf6cdc127701a
+      internalID: -1611680671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_6
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2755
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429091bfc77374a4e99ad58b8e9b3d5e
+      internalID: -862298634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_7
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2755
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00ba495fb8e95c409524b204e301093
+      internalID: -283221678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_8
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2755
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2637412c2ff56449348045c90f787d
+      internalID: 448957958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2755
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078d0931fb8b53a4eae2bc47fce98744
+      internalID: -1360196794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_10
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 2755
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321e0ea81cf7f794ca0f2338c1e7570f
+      internalID: 1552046310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2755
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ab5c8039b8ee04fb1eead91cbd7598
+      internalID: -592830577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_12
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2755
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94f99062c80d344e80363381f7edff9
+      internalID: -117592186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_13
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 2755
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60618cd011f96dd49ad0dc80de3d55a1
+      internalID: -1743789473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_14
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 2755
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6fd25faa1f70c45b89506b35d8bf0b
+      internalID: -377062629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_15
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2755
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b7dea51927102429562f2be0dfff09
+      internalID: 105923904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_16
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2755
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1475eb5d8dc9fbf419bf9bcba8576515
+      internalID: 639945098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_17
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 2755
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd199a121d9f9a4c972b8480183896d
+      internalID: 1292374084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_18
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 2731
+        width: 196
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a11eceac37128945a5a609ac5b7ac3c
+      internalID: -1548857458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_19
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 2731
+        width: 201
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce68b9e89438db45a381e2b3841464a
+      internalID: -1080143120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_20
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 2612
+        width: 444
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ba4f634777140448cd7a0e9244ab91
+      internalID: -2043191000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_21
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 2685
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6808b723d5208944fb815ec424652d57
+      internalID: 2092164586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_22
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 2685
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf5eadccbb0e814c92ef960f83ba18c
+      internalID: 719226897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_23
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2650
+        width: 257
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f03680414539841bf2dfd7e3947b29
+      internalID: -933356158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_24
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2655
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b010faba14d478742a7ea7fdfedcfd6b
+      internalID: 1623975851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_25
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2655
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddaa344544e8fc147a1843468d55ccfc
+      internalID: -1253822146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_26
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2655
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e172b60e81f084b85c8bd3ca3a46c7
+      internalID: -1281518725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_27
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2655
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b898eeedcbaf0418173c6f92c76db5
+      internalID: 1803047855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2655
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c007e103ed28b84cbfab561321dc5c1
+      internalID: 998399112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_29
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2655
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0678614e94b689442b935898e5332d0e
+      internalID: -1185473883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_30
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2655
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a761e6df6b5c2bb45a3e0b6fdfbfdd59
+      internalID: 1514302624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_31
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2655
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b612594661add5e46a8cb68cf9b3a74d
+      internalID: -429867336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_32
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2655
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397f73c63f5a15f4e962d3d8a6ef96ef
+      internalID: -73359160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_33
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 2655
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb6a6e2aa44514438c924772901e8d7
+      internalID: 1982721891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_34
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2655
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3affb327593428845a214d9b014a66af
+      internalID: 1516852947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_35
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2655
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e272b25af4fa20347877bfc8f126842f
+      internalID: 2063711301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_36
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 2655
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3072a30303b45bf42bfad9a0cc100878
+      internalID: 1132272521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_37
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 2655
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f41c1a020783714690eebf15610cfad
+      internalID: 1418578441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_38
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2655
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1ed7aef6dffd74f84bcd272378e34b
+      internalID: 73972121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_39
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2655
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853fb96dbd1516b468ad68aee8d95af8
+      internalID: 366948675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_40
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 2655
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a68fdaef3f06343a617f131c332418
+      internalID: -1443879214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_41
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 2631
+        width: 196
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae976f9ba61b624fb49b4e3b7db1de5
+      internalID: -1532822145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_42
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 2630
+        width: 201
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab1deb5f9cf4ad42a6d17dfdd79e376
+      internalID: -335680306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_43
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1901
+        width: 679
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc60e8ae22b19b444b5dd6434b625a93
+      internalID: 167809054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_44
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1981
+        width: 717
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463ca17470c3e484496d77ccc3be8cc2
+      internalID: 1344576059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_45
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1988
+        width: 718
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd05f4510f54f074ea35e1727841c9a0
+      internalID: 2037195549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_46
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1246
+        width: 712
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e818b9159b1a5f14498073fc45c45074
+      internalID: 1403085759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_47
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1207
+        width: 680
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2060b911f64014698eb98de71d248f
+      internalID: 47018232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_48
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1063
+        width: 716
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4570756af9ac395438a81574d7dd277b
+      internalID: 641815057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_49
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 332
+        width: 717
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9d92460b2999248b9be4ff691b4d14
+      internalID: 1307561348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_50
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 332
+        width: 716
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b012b9a6cb06843bc6dbeee185185c
+      internalID: 361496072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Book (Stand)_51
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 313
+        width: 681
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d44a6d6174d7f438569cfda6ba57cd
+      internalID: -1558075937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Atlas Book (Stand)_3: 42866122
+      Atlas Book (Stand)_32: -73359160
+      Atlas Book (Stand)_20: -2043191000
+      Atlas Book (Stand)_45: 2037195549
+      Atlas Book (Stand)_9: -1360196794
+      Atlas Book (Stand)_41: -1532822145
+      Atlas Book (Stand)_33: 1982721891
+      Atlas Book (Stand)_44: 1344576059
+      Atlas Book (Stand)_5: -1611680671
+      Atlas Book (Stand)_39: 366948675
+      Atlas Book (Stand)_27: 1803047855
+      Atlas Book (Stand)_34: 1516852947
+      Atlas Book (Stand)_1: -883329431
+      Atlas Book (Stand)_17: 1292374084
+      Atlas Book (Stand)_48: 641815057
+      Atlas Book (Stand)_19: -1080143120
+      Atlas Book (Stand)_51: -1558075937
+      Atlas Book (Stand)_47: 47018232
+      Atlas Book (Stand)_2: 1705948344
+      Atlas Book (Stand)_10: 1552046310
+      Atlas Book (Stand)_37: 1418578441
+      Atlas Book (Stand)_8: 448957958
+      Atlas Book (Stand)_50: 361496072
+      Atlas Book (Stand)_25: -1253822146
+      Atlas Book (Stand)_14: -377062629
+      Atlas Book (Stand)_40: -1443879214
+      Atlas Book (Stand)_6: -862298634
+      Atlas Book (Stand)_22: 719226897
+      Atlas Book (Stand)_16: 639945098
+      Atlas Book (Stand)_4: -1223528839
+      Atlas Book (Stand)_35: 2063711301
+      Atlas Book (Stand)_12: -117592186
+      Atlas Book (Stand)_7: -283221678
+      Atlas Book (Stand)_29: -1185473883
+      Atlas Book (Stand)_49: 1307561348
+      Atlas Book (Stand)_21: 2092164586
+      Atlas Book (Stand)_38: 73972121
+      Atlas Book (Stand)_24: 1623975851
+      Atlas Book (Stand)_0: -37000191
+      Atlas Book (Stand)_43: 167809054
+      Atlas Book (Stand)_15: 105923904
+      Atlas Book (Stand)_28: 998399112
+      Atlas Book (Stand)_23: -933356158
+      Atlas Book (Stand)_36: 1132272521
+      Atlas Book (Stand)_13: -1743789473
+      Atlas Book (Stand)_18: -1548857458
+      Atlas Book (Stand)_26: -1281518725
+      Atlas Book (Stand)_31: -429867336
+      Atlas Book (Stand)_46: 1403085759
+      Atlas Book (Stand)_42: -335680306
+      Atlas Book (Stand)_30: 1514302624
+      Atlas Book (Stand)_11: -592830577
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
