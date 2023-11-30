@@ -9,7 +9,7 @@ The project has two modes:
 
 1) Page Reading Mode via Tesseract (does not work stably), but if you play with calibration and clearing the image of noise (this setting is present), then stable operation can be achieved.
 
-2) Mode for reading pages via KR code. It works stably, there is also calibration.
+2) Mode for reading pages via QR code. It works stably, there is also calibration.
 
 The project has a library that has a simple admin mode and a reader mode
 
